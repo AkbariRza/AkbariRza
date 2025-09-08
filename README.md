@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
+<img aling="right" alt="RZA" width=="400" src="https://i.gifer.com/4I9G.gif>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarirza&label=Profile%20views&color=0e75b6&style=flat" alt="akbarirza" /> </p>
 
 - 🌱 I’m currently learning **HTML**
